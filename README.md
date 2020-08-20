@@ -1,4 +1,7 @@
-### Hi there 👋
+### Cheers 👋
+
+Feel free to look around, visitor No. ![Visitor Count](https://profile-counter.glitch.me/ilesar/count.svg)
+
 
 <!--
 **ilesar/ilesar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
