@@ -1,6 +1,6 @@
 ### Cheers 👋
 
-Feel free to look around, visitor No. ![Visitor Count](https://profile-counter.glitch.me/ilesar/count.svg)
+Feel free to look around.
 
 Writing @ https://ivan-lesar.medium.com/
 
