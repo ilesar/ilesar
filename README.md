@@ -4,7 +4,7 @@
 
 I'm a tech lover and problem solver.
 
-![top languages](https://github-readme-stats.vercel.app/api/top-langs?username=ilesar&layout=compact&theme=apprentice&hide_border=true&hide=ASP,C%23,HTML,ShaderLab)
+![top languages](https://github-readme-stats.vercel.app/api/top-langs?username=ilesar&layout=compact&theme=apprentice&hide_border=true&hide=HTML,ShaderLab)
 
 
 
