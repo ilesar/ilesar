@@ -1,14 +1,15 @@
 
 
-## 👋 Hi, stranger 
+#### 👋 Hi, stranger 
 
 I'm a tech lover and problem solver.
 
+<!--
 ![top languages](https://github-readme-stats.vercel.app/api/top-langs?username=ilesar&layout=compact&theme=apprentice&hide_border=true&hide=HTML,ShaderLab)
+-->
 
 
-
-## Find me on...
+#### Find me on...
 
 [![](https://img.shields.io/badge/linkedin-262626.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivanlesar/)
 [![](https://img.shields.io/badge/Facebook-262626.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/lesar.ivan)
