@@ -13,7 +13,7 @@ I'm a tech lover and problem solver.
 
 [![](https://img.shields.io/badge/My%20blog-262626.svg?style=for-the-badge&logo=google-chrome&logoColor=black&color=f08411)](https://lesar.me/)
 [![](https://img.shields.io/badge/linkedin-262626.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=0e76a8)](https://www.linkedin.com/in/ivanlesar/)
-[![](https://img.shields.io/badge/Facebook-262626.svg?style=for-the-badge&logo=facebook&logoColor=white&color=3b5998)](https://www.facebook.com/lesar.ivan)
+<!-- [![](https://img.shields.io/badge/Facebook-262626.svg?style=for-the-badge&logo=facebook&logoColor=white&color=3b5998)](https://www.facebook.com/lesar.ivan) -->
 
 <!--
 ## Profile maintenance stats
